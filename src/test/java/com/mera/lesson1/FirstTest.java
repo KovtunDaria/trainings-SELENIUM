@@ -13,7 +13,7 @@ import java.time.Duration;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 
-public class MyFirstClass {
+public class FirstTest {
     public WebDriver driver;
     public WebDriverWait wait;
 
