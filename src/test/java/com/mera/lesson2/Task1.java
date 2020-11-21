@@ -1,4 +1,4 @@
-package com.mera.lesson1;
+package com.mera.lesson2;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -13,7 +13,7 @@ import java.time.Duration;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 
-public class FirstTest {
+public class Task1 {
     public WebDriver driver;
     public WebDriverWait wait;
 
